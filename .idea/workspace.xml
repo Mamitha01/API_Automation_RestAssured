@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1929808e-791b-468b-8083-5833874fa50a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Get/GetrequestNonBDDstyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Get/NonBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/BDDstylePost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/NonBDDstylePost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BuilderpatternDesignpatternJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/bp/BuilderpatternDesignpatternJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/bp/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/NonDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/bp/NonDesign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RATestcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Get/RATestcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +46,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Public/Documents/Automation_restassured_5x",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.GetrequestNonBDDstyle">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Documents\Automation_restassured_5x" />
+      <recent name="C:\Users\Public\Documents\Automation_restassured_5x\src\test\java\org\example\crud\Post" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BDDstylePost">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.bp.HelloWorld" />
       <module name="Automation_restassured_5x" />
@@ -92,6 +96,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BDDstylePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_restassured_5x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.crud.Post.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.crud.Post" />
+      <option name="MAIN_CLASS_NAME" value="org.example.crud.Post.BDDstylePost" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetrequestNonBDDstyle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_restassured_5x" />
       <extension name="coverage">
@@ -111,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BDDstylePost" />
         <item itemvalue="TestNG.GetrequestNonBDDstyle" />
         <item itemvalue="Application.NonBDD" />
         <item itemvalue="Application.RATestcase" />
