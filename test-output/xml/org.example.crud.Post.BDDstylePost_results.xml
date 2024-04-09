@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Public/Documents/Automation_restassured_5x/src/test/java/org/example/crud/Post"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.426">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDDstylePostPositive"
+                time="6.426"
+                classname="org.example.crud.Post.BDDstylePost">
+            </testcase>
+</testsuite>
