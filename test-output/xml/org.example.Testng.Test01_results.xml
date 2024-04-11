@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation_restassured_5x"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.008">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo5"
+                time="0.008"
+                classname="org.example.Testng.Test01">
+            </testcase>
+</testsuite>
