@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1929808e-791b-468b-8083-5833874fa50a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Patch/NonBDDPATCH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/testng_Post.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Put/NonBDDPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/org.example.crud.Post.BDDstylePost_results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/NonBDDstylePost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/NonBDDstylePost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/crud/Post/testng-POST.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Testng/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Testng/Test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/Testng/Test02.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +61,7 @@
       <recent name="C:\Users\Public\Documents\Automation_restassured_5x" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Test01">
+  <component name="RunManager" selected="TestNG.Test02">
     <configuration name="BDDstylePost" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_restassured_5x" />
       <extension name="coverage">
@@ -80,16 +73,6 @@
       <option name="PACKAGE_NAME" value="org.example.crud.Post" />
       <option name="MAIN_CLASS_NAME" value="org.example.crud.Post.BDDstylePost" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Public/Documents/Automation_restassured_5x/src/test/java/org/example/crud/Post/testng-POST.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_restassured_5x" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/crud/Post/testng-POST.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -123,6 +106,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_restassured_5x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Testng" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Testng.Test02" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestNG00" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_restassured_5x" />
       <extension name="coverage">
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Test02" />
         <item itemvalue="TestNG.Test01" />
         <item itemvalue="TestNG.TestNG00" />
         <item itemvalue="TestNG.C:/Users/Public/Documents/Automation_restassured_5x/src/test/java/org/example/crud/Post/testng_Post.xml" />
         <item itemvalue="TestNG.BDDstylePost" />
-        <item itemvalue="TestNG.C:/Users/Public/Documents/Automation_restassured_5x/src/test/java/org/example/crud/Post/testng-POST.xml" />
       </list>
     </recent_temporary>
   </component>
